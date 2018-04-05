@@ -35,5 +35,5 @@ vignettes/*.pdf
 # data 
 train.csv
 test.csv
-
+.ipynb_checkpoints
 
